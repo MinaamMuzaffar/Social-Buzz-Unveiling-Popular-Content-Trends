@@ -1,5 +1,6 @@
 # Social-Buzz-Unveiling-Popular-Content-Trends
-Introduction
+#Introduction
+
 Hello everyone, today we'll delve into the fascinating world of Social Buzz, a platform similar to YouTube. We'll explore content trends, user engagement, and uncover the top categories that capture audiences' attention.
 Content Landscape
 Social Buzz boasts a diverse range of 16 content categories, catering to various interests. Among these, animals, cooking, culture, dogs, education, fitness, food, healthy eating, public speaking, science, soccer, studying, technology, tennis, travel, and veganism stand out.
